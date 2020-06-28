@@ -12,7 +12,7 @@
       "postalCode": "",
       "city": "GyeongGi-do",
       "countryCode": "South Korea",
-      "region": "Wirye"
+      "region": "Wirye, "
     },
     "profiles": [
       {
@@ -25,18 +25,6 @@
         "username": "mollymaluhia",
         "url": "http://linkedin.com/in/changeme"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
-    ]
-  },
   "interests": [
     {
       "name": "internet of things",
