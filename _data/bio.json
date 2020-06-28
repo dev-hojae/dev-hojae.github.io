@@ -6,7 +6,7 @@
     "email": "dev.hojaelee@gmail.com",
     "phone": "010-8450-2068",
     "website": "https://blog.hojaelee.com",
-    "summary": "I am studying for a B.S. in Computer Engineering at Dongguk University. I expect to graduate in Summer, 2020.",
+    "summary": "I am studying for a B.S. in Computer Engineering at Dongguk University.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -22,21 +22,14 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "hojaelee",
         "url": "http://linkedin.com/in/changeme"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "blog",
+        "username": "hojaelee",
+        "url": "https://blog.hojaelee.com"
       },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
-    ]
-  },
   "interests": [
     {
       "name": "internet of things",
