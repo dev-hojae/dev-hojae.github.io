@@ -22,14 +22,21 @@
       },
       {
         "network": "linkedin",
-        "username": "hojaelee",
+        "username": "mollymaluhia",
         "url": "http://linkedin.com/in/changeme"
       },
       {
-        "network": "blog",
-        "username": "hojaelee",
-        "url": "https://blog.hojaelee.com"
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
       },
+      {
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
+      }
+    ]
+  },
   "interests": [
     {
       "name": "internet of things",
